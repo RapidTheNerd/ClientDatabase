@@ -1,0 +1,11 @@
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\AddressBook.mdb
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe.config
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.exe
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.pdb
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\bin\Debug\WindowsApplication15.xml
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Form1.resources
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.Resources.resources
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.vbproj.GenerateResource.Cache
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.exe
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.xml
+\\cgdata\studata\students\624331\visual studio 2010\Projects\WindowsApplication15\WindowsApplication15\obj\x86\Debug\WindowsApplication15.pdb
